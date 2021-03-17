@@ -1,2 +1,2 @@
 # Compartment_Mapping
-Disorder localization inside the human cell
+Disorder protein localization inside the human cell based on gene ontology annotations
